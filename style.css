@@ -1,0 +1,56 @@
+body {
+    background: blue;
+    color: white;
+}
+
+p {
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+li{
+    display: inline;
+}
+
+.container {
+    margin: 15px;
+    padding: 30px;
+    background: white;
+}
+
+footer {
+    margin: 0 15px;
+}
+
+footer span {
+    float: left;
+}
+
+.bottom-nav {
+    float: right;
+}
+
+.dental-center-logo {
+    background-repeat: no-repeat;
+}
+
+.navIcon {
+    width: 40px;
+    height: 29px;
+    float: right;
+    background-color: blue ;
+
+}
+
+.icon-bar {
+    width: 18px;
+    height: 2px;
+    border: 1px solid white;
+}
+
+
